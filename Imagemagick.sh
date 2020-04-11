@@ -60,9 +60,6 @@ fi
  fi    
 fi
 
-
-
-
 IFS=:
 
 if ! [ -d $1 ]; then
