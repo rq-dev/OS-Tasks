@@ -39,8 +39,7 @@ for x in $PATH
 	echo "$x/${1##*/}"
 	m=0
 	fi	
-done
-	
+done	
 	
 
 if [ "$m" == "1" ]
