@@ -29,4 +29,3 @@ let "n = result - n"
 done
 
 echo $result
-
