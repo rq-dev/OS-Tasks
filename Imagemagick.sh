@@ -95,8 +95,6 @@ done
 rm -R $3/tmp123451231213123123123124123189889781979321qwe 2>/dev/null
 
 
-
-
 for f in $3/*
 do
 convert -pointsize $fs -font $ff -fill yellow -gravity SouthEast -annotate +0+5 $2  $f $f 2>/dev/null
