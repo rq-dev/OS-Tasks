@@ -18,7 +18,6 @@ echo negative args.
 exit 0
 fi
 
-
 n=1
 result=0
 
